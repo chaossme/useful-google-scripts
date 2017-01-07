@@ -1,5 +1,5 @@
 /**
- * Script used for changing color of a specific word.
+ * Script used for changing the color of a specific word inside a specific Google Drive Document.
  * Useful for changing colors of nicknames, etc.
  */
 
