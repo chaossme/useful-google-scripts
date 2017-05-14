@@ -1,2 +1,2 @@
 # useful-google-scripts
-Useful scripts for Google Drive.
+Collection of useful scripts for Google Drive.
